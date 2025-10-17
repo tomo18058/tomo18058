@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ### Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,react,C++,Objective-c" />
-- **Tools**: GitHub, VS Code
 </p>
 
+- [Twitter](https://x.com/monbran_kuri)
