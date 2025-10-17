@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 </p>
 ### Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,react,c++,objective-c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,react,C++,Objective-c" />
 </p>
 
