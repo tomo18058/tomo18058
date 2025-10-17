@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=GitHub,vscode,visualstudio,gmail,discord"
+  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,gmail,discord"
 </p>
   
 - [X](https://x.com/monbran_kuri)
