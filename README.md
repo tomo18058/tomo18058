@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,gmail,discord"
 </p>
   
-- [X](https://x.com/monbran_kuri)
+- [X](https://x.com/@tomokki_27)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/snake-dark.svg">
