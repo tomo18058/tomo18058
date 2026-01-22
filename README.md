@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 </p>
   
 - [X](https://x.com/monbran_kuri)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomo18058/tomo18058/main/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomo18058/tomo18058/main/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tomo18058/tomo18058/main/img/snake.svg">
+</picture>
