@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust,react,cpp,ruby,rails" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust,yew,react,cpp,ruby,rails" />
 </p>
 
 ### Tools
