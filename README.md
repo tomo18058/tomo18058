@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 </p>
 
 ### Skills
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust,yew,react,cpp,ruby,rails" />
 </p>
 
 ### Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,gmail,discord"
 </p>
   
