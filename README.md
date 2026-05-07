@@ -1,8 +1,8 @@
 ## Hi I'm Tomoki Hara
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomo18058&show_icons=true&theme=calm" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomo18058&layout=compact&theme=calm" width="49.5%" />
+  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomo18058)
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomo18058&layout=compact&theme=calm" width="49.5%" /> -->
 </p>
 
 ### Skills
